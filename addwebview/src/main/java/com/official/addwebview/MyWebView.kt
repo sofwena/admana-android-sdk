@@ -32,12 +32,12 @@ class MyWebView : WebView {
     }
 
     fun loadAdd(test : String){
-//        this.loadUrl(test)
-        val data = "<a href=\"https://admin4.dist.sofwena.com/delivery/ck.php?oaparams=2__bannerid=13__zoneid=10__source=%7Bobfs%3A%7D__OXLCA=1__cb=69c8785e0b__oadest=http%3A%2F%2Fads.sharesansar.com%2Feverest-bank\" target=\"_blank\" title=\"Everest Bank Ltd\">\n" +
-                "<img src=\"https://www.sharesansar.com/photos/shares/advertisement/1533201053-275x60-GIF.gif?ver=33\" class=\"img-responsive\" alt=\"everest-bank-ltd\">\n" +
-                "<img src=\"https://admin4.dist.sofwena.com/delivery/lg.php?bannerid=13&amp;campaignid=11&amp;zoneid=10&amp;source={obfs:}&amp;loc=http://www.sharesansar.com&amp;cb=7cfd497cb9\" width=\"0\" height=\"0\" alt=\"\" style=\"width: 0px; height: 0px;\">\n" +
-                "</a>"
-        this.loadData(data, "text/html; charset=utf-8", "UTF-8");
+        this.loadUrl(test)
+//        val data = "<a href=\"https://admin4.dist.sofwena.com/delivery/ck.php?oaparams=2__bannerid=13__zoneid=10__source=%7Bobfs%3A%7D__OXLCA=1__cb=69c8785e0b__oadest=http%3A%2F%2Fads.sharesansar.com%2Feverest-bank\" target=\"_blank\" title=\"Everest Bank Ltd\">\n" +
+//                "<img src=\"https://www.sharesansar.com/photos/shares/advertisement/1533201053-275x60-GIF.gif?ver=33\" class=\"img-responsive\" alt=\"everest-bank-ltd\">\n" +
+//                "<img src=\"https://admin4.dist.sofwena.com/delivery/lg.php?bannerid=13&amp;campaignid=11&amp;zoneid=10&amp;source={obfs:}&amp;loc=http://www.sharesansar.com&amp;cb=7cfd497cb9\" width=\"0\" height=\"0\" alt=\"\" style=\"width: 0px; height: 0px;\">\n" +
+//                "</a>"
+//        this.loadData(data, "text/html; charset=utf-8", "UTF-8");
 
     }
 }
