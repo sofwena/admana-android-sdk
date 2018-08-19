@@ -13,7 +13,7 @@ class MyAddView : WebView {
         initView(context)
         val ta = context.obtainStyledAttributes(attrs, R.styleable.MyCustomElement, 0, 0)
         try {
-            val url = ta.getString(R.styleable.MyCustomElement_test)
+            val url = ta.getString(R.styleable.MyCustomElement_url)
             loadAdd(url)
         } finally {
             ta.recycle()
