@@ -20,9 +20,9 @@ Steps:
 		}
   
   
-3. Add com.official.addwebview.MyWebView in xml where needed. Pass the url that need to load in 'url' key.
+# 3. Add com.sofwena.myAddView.MyAddView in xml where needed. Pass the url that need to load in 'url' key.
 
-# Thats it. You are done. The url will now load in MyAddView. 
+Thats it. You are done. The url will now load in MyAddView. 
 
 # Example:
 
