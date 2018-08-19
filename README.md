@@ -5,6 +5,7 @@ the url without defining the view in java/kotlin class.
 
 Steps:
 # 1. Add it in your root build.gradle at the end of repositories:
+
 allprojects {
 		repositories {
 			...
@@ -14,6 +15,7 @@ allprojects {
   
   
 # 2. Add the dependency
+
    dependencies {
 	       implementation 'com.github.Pragt:MyAddWebView:v0.1.0'
 	}
@@ -21,9 +23,9 @@ allprojects {
   
 3. Add com.official.addwebview.MyWebView in xml where needed. Pass the url that need to load in 'url' key. Thats it. You are done. The url will now load in webview. 
 
-example:
+# Example:
 
-# <com.official.addwebview.MyWebView
+<com.official.addwebview.MyWebView
         android:id="@+id/myWebView"
         android:layout_width="match_parent"
         android:layout_height="200dp"
