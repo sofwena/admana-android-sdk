@@ -1,4 +1,4 @@
-# MyAddWebView
+# MyAddView
 
 This is custom webview to load url. You just need to pass the url that need to load in webview via xml/layout. The webview load
 the url without defining the view in java/kotlin class. 
