@@ -1,6 +1,6 @@
 # MyAddView
 
-This is custom webview to load url. You just need to pass the url that need to load in webview via xml/layout. The MyAddView will load the url without defining the view in java/kotlin class. 
+This is custom webview to load url. You just need to pass the url that need to load in myAddView via xml/layout. Then MyAddView will load the url without defining the view in java/kotlin class. 
 
 Steps:
 # 1. Add it in your root build.gradle at the end of repositories:
