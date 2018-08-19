@@ -27,7 +27,7 @@ Steps:
 # Example:
 
 	 <com.sofwena.myAddView.MyAddView
-       		android:id="@+id/myWebView"
+	 	android:id="@+id/myWebView"
         	android:layout_width="wrap_content"
         	android:layout_height="wrap_content"
         	android:text="Hello World!"
