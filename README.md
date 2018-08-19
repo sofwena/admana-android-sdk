@@ -16,7 +16,7 @@ Steps:
 # 2. Add the dependency
 
   	 dependencies {
-	      	 implementation 'com.github.sofwena:admana-android-sdk:v1.0.0'
+	      	 implementation 'com.github.sofwena:admana-android-sdk:v1.0.1'
 		}
   
   
