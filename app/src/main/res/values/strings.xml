@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyAddWebview</string>
+    <string name="url"><![CDATA[https://www.dist.sofwena.com/aff?id=1&size=275x60]]></string>
 </resources>

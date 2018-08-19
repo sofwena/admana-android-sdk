@@ -1,4 +1,4 @@
-package com.official.myaddwebview
+package com.sofwena.myaddwebview
 
 import org.junit.Test
 

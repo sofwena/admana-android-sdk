@@ -1,4 +1,4 @@
-package com.official.myaddwebview
+package com.sofwena.myaddwebview
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

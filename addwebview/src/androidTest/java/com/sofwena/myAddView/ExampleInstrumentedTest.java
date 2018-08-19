@@ -1,4 +1,4 @@
-package com.official.addwebview;
+package com.sofwena.myAddView;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
