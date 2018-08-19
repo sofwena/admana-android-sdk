@@ -24,8 +24,7 @@ allprojects {
 3. Add com.official.addwebview.MyWebView in xml where needed. Pass the url that need to load in 'url' key. Thats it. You are done. The url will now load in webview. 
 
 # Example:
-
-<com.official.addwebview.MyWebView
+# <com.official.addwebview.MyWebView
         android:id="@+id/myWebView"
         android:layout_width="match_parent"
         android:layout_height="200dp"
@@ -36,7 +35,7 @@ allprojects {
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0"
-        app:url="https://www.google.com/" /> 
+        app:url="https://www.google.com/" />
         
 	
 # Thanks,
